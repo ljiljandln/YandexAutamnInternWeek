@@ -1,5 +1,3 @@
-package internWeek;
-
 import java.util.Scanner;
 
 public class ProblemA {
